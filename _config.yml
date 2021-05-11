@@ -77,3 +77,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://brobot-blog-theme-a7d9c.netlify.app'
